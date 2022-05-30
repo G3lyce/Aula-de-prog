@@ -1,0 +1,5 @@
+a=int(input())
+if (a<=36):
+    print('correto')
+else:
+    print('errado')
